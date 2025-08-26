@@ -23,9 +23,8 @@ A replica of the Amazon website built with **React**, **Node.js**, **Express**, 
 
 ---
 
-##  Demo / Screenshots
-Insert live demo link (if deployed) or screenshots here:
-![Homepage Screenshot](path/to/screenshot.png)
+## 🚀 Run the Project
+[Click here to execute the project](https://rakesh4407.github.io/Food-waste-redistribution-system/)
 
 ---
 
