@@ -24,7 +24,7 @@ A replica of the Amazon website built with **React**, **Node.js**, **Express**, 
 ---
 
 ## 🚀 Run the Project
-[Click here to execute the project]([https://rakesh4407.github.io/Amazon-clone/])
+[Click here to execute the project](https://rakesh4407.github.io/Amazon-clone/)
 
 ---
 
